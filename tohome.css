@@ -1,0 +1,9 @@
+body {
+    color: #373E40;
+    margin: 0px;
+    padding-top: 20.6%;
+    padding-bottom: 20.6%;
+    font-family: 'Maven Pro', sans-serif;
+    background: rgb(72,130,134);
+background: linear-gradient(180deg, rgba(72,130,134,1) 0%, rgba(183,213,212,1) 50%);
+}
